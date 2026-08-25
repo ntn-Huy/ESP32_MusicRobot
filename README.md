@@ -1,4 +1,4 @@
-# 🤖 ESP32 Smart Music Robot
+# 🤖 ESP32 Music Robot
 
 Một dự án Robot phát nhạc thông minh sử dụng vi điều khiển ESP32. Robot có khả năng kết nối Wi-Fi, stream nhạc trực tiếp từ một Local HTTP Server và hiển thị khuôn mặt cảm xúc sinh động trên màn hình TFT (chuyển động miệng đồng bộ với thời gian thực).
 
