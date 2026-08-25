@@ -8,7 +8,7 @@ Một dự án Robot phát nhạc thông minh sử dụng vi điều khiển ESP
 
 > **Lưu ý:** Bấm vào hình ảnh bên dưới để xem video demo thực tế của Robot trên YouTube. Cập nhật link video của bạn vào phần `YOUR_VIDEO_ID`.
 
-[![Robot Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Robot Demo Video](https://github.com/user-attachments/assets/3a2e4e93-59d8-46d4-be8f-d89510baf587)
 
 ---
 
