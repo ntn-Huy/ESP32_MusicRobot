@@ -6,7 +6,7 @@ Một dự án Robot phát nhạc thông minh sử dụng vi điều khiển ESP
 
 ## 🎥 Video Demo
 
-> **Lưu ý:** Mở tiếng để nghe nhạc.
+> **Lưu ý:** Mở tiếng để nghe nhạc. 🎧 
 
 https://github.com/user-attachments/assets/3a2e4e93-59d8-46d4-be8f-d89510baf587
 
